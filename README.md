@@ -1,8 +1,8 @@
 # Desarrollo de un Asistente Virtual de consultas como apoyo a la difusión de prácticas de Ciencia Abierta en América Latina
 
 ## Integrantes
-● Lic. Patricia A. Loto
-● Lic. Silvana Armana
+* Lic. Patricia A. Loto
+* Lic. Silvana Armana
 
 ## Modalidad
 Aplicación de IA
