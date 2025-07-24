@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cuál fue el principal objetivo de la red OCSD y qué países participaron en su desarrollo?",
+    "respuesta": "La red OCSD (Open and Collaborative Science in Development) se conformó entre 2015 y 2018 con el objetivo de investigar cómo y en qué condiciones la ciencia abierta y colaborativa podría conducir a nuevas formas de pensar y practicar la producción de conocimiento en diversos contextos del Sur global. La red comprendía doce proyectos que involucraron veintiséis países del denominado Sur global, financiada por el International Development Research Centre (IDRC) de Canadá y el Department of International Development del Reino Unido.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "maestría",
+    "contexto_regional": "Sur global, con énfasis en América Latina",
+    "fuentes": [ "Manifiesto de ciencia abierta y colaborativa en el desarrollo de la red OCSD" ],
+    "entidades_relacionadas": [ "IDRC", "Department of International Development", "red OCSD", "Sur global" ]
+  },
+  {
+    "pregunta": "¿Por qué la red OCSD consideró que la visión convencional de la ciencia abierta era restrictiva y poco inclusiva?",
+    "respuesta": "La red OCSD consideró que el marco convencional de la ciencia abierta, basado en el paradigma científico universal y empírico-positivista, enfatizaba principalmente la competencia y el papel de las herramientas técnicas de producción cognitiva. Esta visión tecnocrática resultaba restrictiva porque no tenía en cuenta los valores y experiencias de quienes formaban parte de la red, y existía una seria preocupación de que esta visión acrítica y técnica replicara y amplificara los desequilibrios de poder en la producción global de conocimiento.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "doctorado",
+    "contexto_regional": "Sur global y América Latina",
+    "fuentes": [ "Manifiesto de ciencia abierta y colaborativa en el desarrollo de la red OCSD" ],
+    "entidades_relacionadas": [ "paradigma científico", "producción de conocimiento", "desequilibrios de poder", "visión tecnocrática" ]
+  },
+  {
+    "pregunta": "¿Cuáles son los siete principios que encapsula el Manifiesto de Ciencia Abierta y Colaborativa y cómo se desarrollaron?",
+    "respuesta": "El Manifiesto de Ciencia Abierta y Colaborativa encapsula siete principios relevantes para múltiples contextos en el Sur global, desarrollados a través de un proceso participativo que duró un año. Este proceso incluyó talleres de edición, videoconferencias colectivas, actividades de revisión de pares y discusiones en grupos de Google. Los principios consolidan tanto los valores comunes como el vocabulario usado por la comunidad OCSD para discutir sobre apertura, colaboración e inclusión en ciencia, aunque el documento no especifica cuáles son exactamente estos siete principios.",
+    "pilar": "ciencia_ciudadana",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "maestría",
+    "contexto_regional": "Sur global",
+    "fuentes": [ "Manifiesto de ciencia abierta y colaborativa en el desarrollo de la red OCSD" ],
+    "entidades_relacionadas": [ "proceso participativo", "construcción de consensos", "colaboración en red", "comunidad OCSD" ]
+  },
+  {
+    "pregunta": "¿Cómo define la red OCSD el concepto de 'apertura' en el contexto de la ciencia abierta?",
+    "respuesta": "La red OCSD define la apertura como un proceso continuo de negociaciones bajo diferentes situaciones, donde la contextualización siempre es crucial. Para la red, la ciencia abierta debe verse como un compromiso para abrir tanto la producción de conocimiento como el proceso de legitimación, con el fin de incluir saberes y personas que tradicionalmente han sido excluidos, marginados o subrepresentados. Esta definición reconoce que el proceso de ciencia abierta tiene lugar en una variedad de contextos con personas diversas que enfrentan diferentes barreras, desafíos y oportunidades.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "Sur global y América Latina",
+    "fuentes": [ "Manifiesto de ciencia abierta y colaborativa en el desarrollo de la red OCSD" ],
+    "entidades_relacionadas": [ "proceso de negociación", "contextualización", "legitimación", "inclusión", "saberes tradicionales" ]
+  },
+  {
+    "pregunta": "¿Qué marcos conceptuales y teorías incorpora el Manifiesto OCSD para establecer conexiones con diferentes comunidades de producción de conocimiento?",
+    "respuesta": "El Manifiesto OCSD incorpora diversos marcos conceptuales y teorías para conectar con comunidades de producción de conocimiento que no estaban previamente vinculadas con la discusión sobre ciencia abierta. Incluye ideas y marcos de teorías feministas globales, la idea de buen vivir en América Latina, principios de la filosofía Ubuntu en Sudáfrica, pensamiento decolonial, teorías críticas sobre la raza, y formas de conocimiento indígena. Su mensaje resalta un marco pluriuniversal que valora la ecología de conocimientos diversos, mientras descentra la visión hegemónica de la ciencia, resonando con los movimientos actuales de decolonización en el ámbito académico.",
+    "pilar": "ciencia_ciudadana",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "doctorado",
+    "contexto_regional": "América Latina, con perspectiva global del Sur",
+    "fuentes": [ "Manifiesto de ciencia abierta y colaborativa en el desarrollo de la red OCSD" ],
+    "entidades_relacionadas": [ "teorías feministas globales", "buen vivir", "filosofía Ubuntu", "pensamiento decolonial", "conocimiento indígena", "marco pluriuniversal", "ecología de conocimientos" ]
+  }
+]

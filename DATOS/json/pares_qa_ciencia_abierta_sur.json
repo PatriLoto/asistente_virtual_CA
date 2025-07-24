@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cuáles son los antecedentes históricos y conceptuales de la ciencia abierta en América Latina según la perspectiva del Sur?",
+    "respuesta": "La ciencia abierta en América Latina tiene profundas raíces históricas que anteceden a la noción digital actual. En los años setenta, Orlando Fals Borda desarrolló el concepto de investigación-acción-participación, estableciendo uno de los primeros marcos para la participación de actores no científicos en la producción de conocimiento. Este enfoque se complementa con las Epistemologías del Sur de Boaventura de Sousa Santos, que buscan identificar formas de conocer alternativas a las prácticas hegemónicas del norte global. La Educación Popular de Paulo Freire propuso una pedagogía crítica y emancipadora basada en prácticas horizontales donde diversos actores (estudiantes, campesinos, poblaciones indígenas) co-construyen conocimientos. Estas corrientes crean un ecosistema que discute la naturaleza, contenido y valor del conocimiento, proporcionando un campo fértil para desarrollar conceptos de ciencia abierta basados en la realidad latinoamericana.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "doctorado",
+    "contexto_regional": "América Latina - tradiciones académicas y epistemológicas propias de la región que anteceden y fundamentan los enfoques actuales de ciencia abierta",
+    "fuentes": ["ARBOR Ciencia, Pensamiento y Cultura 197-799, enero-marzo 2021, a594"],
+    "entidades_relacionadas": ["Orlando Fals Borda", "Boaventura de Sousa Santos", "Paulo Freire", "investigación-acción-participación", "Epistemologías del Sur", "Educación Popular", "decolonialismo"]
+  },
+  {
+    "pregunta": "¿Qué es la Declaración de Panamá de Ciencia Abierta y cuál fue el proceso de su construcción?",
+    "respuesta": "La Declaración de Panamá de Ciencia Abierta es un documento de referencia regional construido en 2018 durante el Foro UNESCO de Ciencias de América Latina y el Caribe (CILAC 2018). Surgió de la iniciativa conjunta de Fundación Karisma, el Centro de Internet y Sociedad de la Universidad del Rosario (ISUR) y el Sistema de Información para la Biodiversidad (SiB Colombia), quienes convocaron a una treintena de activistas, académicos y practicantes de ciencia abierta. El documento se desarrolló mediante un proceso participativo y se mantuvo abierto en Internet como documento vivo para recibir comentarios y sugerencias. Se basa en el Manifiesto de ciencia abierta y colaborativa y reconoce la ciencia abierta como un concepto polisémico, donde su pluralidad constituye su fortaleza. El documento enfatiza el conocimiento como bien público común que trasciende los recursos educativos abiertos y el acceso abierto a publicaciones.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "maestría",
+    "contexto_regional": "América Latina - documento regional que establece principios y estrategias específicas para el desarrollo de políticas de ciencia abierta en la región",
+    "fuentes": ["ARBOR Ciencia, Pensamiento y Cultura 197-799, enero-marzo 2021", "Declaración de Panamá de Ciencia Abierta"],
+    "entidades_relacionadas": ["Fundación Karisma", "ISUR", "SiB Colombia", "UNESCO", "CILAC 2018", "Manifiesto de ciencia abierta y colaborativa"]
+  },
+  {
+    "pregunta": "¿Cómo se manifiesta la cultura de 'lo abierto' en América Latina más allá del ámbito académico formal?",
+    "respuesta": "América Latina posee una rica cultura de 'lo abierto' que trasciende los espacios académicos formales y se extiende a diversos ámbitos de la sociedad. Esta cultura se ha desarrollado históricamente tanto en espacios formales como no formales, ocupándose de reflexionar y trabajar sobre el conocimiento, su apertura y formas de colaboración desde hace décadas. Se manifiesta en prácticas pedagógicas horizontales donde participan diversos actores sociales como estudiantes, campesinos y poblaciones indígenas en procesos de co-construcción de conocimientos. Esta tradición de apertura y participación constituye uno de los supuestos centrales de la ciencia abierta contemporánea, pero con raíces profundamente latinoamericanas que anteceden a la popularización de las herramientas digitales actuales.",
+    "pilar": "ciencia_ciudadana",
+    "nivel_complejidad": "básico",
+    "audiencia": "maestría",
+    "contexto_regional": "América Latina - tradiciones culturales y sociales de participación y apertura del conocimiento que caracterizan la región",
+    "fuentes": ["ARBOR Ciencia, Pensamiento y Cultura 197-799, enero-marzo 2021"],
+    "entidades_relacionadas": ["espacios formales", "espacios no formales", "co-construcción de conocimientos", "participación comunitaria", "prácticas horizontales"]
+  },
+  {
+    "pregunta": "¿Qué lecciones sobre políticas públicas de ciencia abierta se pueden extraer de la respuesta a la pandemia de COVID-19?",
+    "respuesta": "La pandemia de COVID-19 reveló una significativa brecha entre la respuesta de la sociedad civil y la academia versus las políticas públicas en materia de ciencia abierta. Mientras la sociedad civil y la academia reaccionaron prontamente ofreciendo soluciones colaborativas y abiertas a los retos impuestos por la pandemia, fueron escasos los gobiernos que tomaron medidas de emergencia para abrir el conocimiento y la investigación, contrastando con su proliferación de otras medidas de emergencia. Esta situación evidencia la necesidad urgente de crear y promover políticas públicas en ciencia abierta, convirtiendo este momento en una oportunidad clave para impulsar y explicar la importancia de dichas políticas. El marco ofrecido por la Declaración de Panamá y su ruta propuesta adquiere mayor vigencia ante esta evidencia de la desconexión entre las necesidades sociales y las respuestas gubernamentales en materia de apertura del conocimiento.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "investigador",
+    "contexto_regional": "América Latina - análisis de la respuesta regional a la pandemia y sus implicaciones para el desarrollo de políticas públicas de ciencia abierta",
+    "fuentes": ["ARBOR Ciencia, Pensamiento y Cultura 197-799, enero-marzo 2021"],
+    "entidades_relacionadas": ["COVID-19", "políticas públicas", "medidas de emergencia", "sociedad civil", "academia", "gobiernos", "Declaración de Panamá"]
+  },
+  {
+    "pregunta": "¿Cuál es la propuesta conceptual de la ciencia abierta como bien público común según la perspectiva latinoamericana?",
+    "respuesta": "La perspectiva latinoamericana conceptualiza la ciencia abierta como un bien público común que trasciende las nociones tradicionales limitadas a recursos educativos abiertos o acceso abierto a publicaciones. Esta concepción reconoce la naturaleza polisemica del concepto de ciencia abierta, identificando en esa pluralidad su especial fortaleza. Se fundamenta en la idea de que el conocimiento debe ser accesible y participativo, incorporando las tradiciones regionales de apertura y colaboración que han caracterizado históricamente a América Latina. Esta visión integral del conocimiento como bien común implica que la ciencia abierta debe abarcar no solo la publicación y el acceso, sino también los procesos de producción, validación y aplicación del conocimiento, incluyendo la participación de diversos actores sociales en estas etapas.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "doctorado",
+    "contexto_regional": "América Latina - conceptualización regional que integra tradiciones locales con enfoques contemporáneos de ciencia abierta",
+    "fuentes": ["ARBOR Ciencia, Pensamiento y Cultura 197-799, enero-marzo 2021", "Declaración de Panamá de Ciencia Abierta"],
+    "entidades_relacionadas": ["bien público común", "recursos educativos abiertos", "acceso abierto", "concepto polisémico", "conocimiento participativo", "pluralidad conceptual"]
+  }
+]

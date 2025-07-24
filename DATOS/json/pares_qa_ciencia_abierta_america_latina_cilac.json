@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cuáles son las principales barreras identificadas para la implementación del acceso abierto a las publicaciones científicas en América Latina según el estudio CILAC 2021?",
+    "respuesta": "Según el documento CILAC 2021, las principales barreras incluyen: 1) La estructura oligopólica del mercado editorial científico que genera barreras económicas y técnicas; 2) Los sistemas de evaluación académica basados en el factor de impacto que privilegian publicaciones en revistas comerciales de alto costo; 3) La falta de transparencia en los costos de suscripciones y APCs que impide una negociación efectiva; 4) La resistencia cultural de los investigadores acostumbrados al modelo tradicional; y 5) La fragmentación de políticas nacionales sin suficiente coordinación regional. El estudio destaca que América Latina gasta aproximadamente 200 millones de dólares anuales en suscripciones, recursos que podrían redirigirse hacia modelos de publicación abierta más sostenibles.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "Específico de América Latina - análisis de barreras estructurales y económicas en la región",
+    "fuentes": ["CILAC 2021 - Ciencia Abierta en América Latina", "La Referencia - Primera Encuesta Regional sobre Negociación y Contratación"],
+    "entidades_relacionadas": ["revistas comerciales", "factor de impacto", "APCs", "SciELO", "La Referencia"]
+  },
+  {
+    "pregunta": "¿Cómo han evolucionado las políticas de gestión de datos de investigación en los países líderes de América Latina y qué características tienen los mandatos implementados?",
+    "respuesta": "El documento CILAC 2021 identifica que Argentina y México han implementado mandatos específicos para el manejo de datos de investigación, mientras que Brasil y Chile han desarrollado instrumentos operativos sin contar con leyes específicas pero con resultados efectivos. Las políticas exitosas se caracterizan por: 1) Enfoque colaborativo que involucra diferentes departamentos organizacionales; 2) Desarrollo de planes de gestión de datos (PGD) como requisito; 3) Adopción de principios FAIR (Findable, Accessible, Interoperable, Reusable); 4) Creación de repositorios institucionales interoperables; y 5) Financiamiento sostenible para infraestructuras. El estudio resalta que los proyectos de cooperación internacional financiados con fondos europeos han sido motores importantes para la gestión de datos en redes de investigación temáticas.",
+    "pilar": "datos_abiertos",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "maestría",
+    "contexto_regional": "Comparativo entre países de América Latina - Argentina, México, Brasil y Chile",
+    "fuentes": ["CILAC 2021 - Ciencia Abierta en América Latina", "Políticas nacionales de datos abiertos"],
+    "entidades_relacionadas": ["principios FAIR", "planes de gestión de datos", "repositorios institucionales", "mandatos de datos"]
+  },
+  {
+    "pregunta": "¿Qué papel juega la iniciativa AmeliCA en la promoción del modelo diamante de publicación científica en América Latina y cuáles son sus principios fundamentales?",
+    "respuesta": "AmeliCA (Conocimiento Abierto para América Latina y el Sur Global) es una infraestructura liderada por UNESCO, CLACSO y Redalyc que promueve el modelo diamante de publicación sin fines de lucro. Sus principios fundamentales incluyen: 1) El conocimiento científico financiado con fondos públicos es un bien común; 2) Fortalecimiento del modelo de publicación abierta sin APCs; 3) Evolución de los sistemas de evaluación para valorar la publicación por sus méritos; 4) Transición completa hacia la comunicación científica digital; 5) Sustentabilidad basada en esquemas cooperativos; y 6) Respeto por la diversidad de revistas científicas. AmeliCA desarrolla proyectos como métricas responsables, profesionalización editorial y ciencia abierta, posicionándose como alternativa regional al Plan S europeo y defendiendo un modelo académico no comercial que preserve la naturaleza abierta de la comunicación científica.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "doctorado",
+    "contexto_regional": "Iniciativa específica de América Latina y Sur Global liderada por organizaciones regionales",
+    "fuentes": ["CILAC 2021 - Ciencia Abierta en América Latina", "AmeliCA Conocimiento Abierto A.C."],
+    "entidades_relacionadas": ["modelo diamante", "Redalyc", "UNESCO", "CLACSO", "métricas responsables"]
+  },
+  {
+    "pregunta": "¿Cuáles son los principales desafíos que enfrentan las universidades latinoamericanas para implementar nuevos sistemas de evaluación académica que promuevan la ciencia abierta?",
+    "respuesta": "Según el análisis CILAC 2021, las universidades latinoamericanas enfrentan múltiples desafíos: 1) Dependencia estructural de rankings internacionales basados en factor de impacto que privilegian publicaciones comerciales; 2) Presión institucional por escalar posiciones en rankings que perpetúan el modelo tradicional; 3) Sistemas de incentivos económicos vinculados a publicaciones en revistas de alto impacto (como en México y Colombia); 4) Fragmentación entre educación de pregrado masiva y actividades de investigación; 5) Falta de coordinación entre diferentes instancias ministeriales (educación vs. ciencia y tecnología); 6) Resistencia de investigadores senior que obtuvieron reconocimiento bajo el sistema actual; y 7) Limitado margen de maniobra institucional para implementar criterios de evaluación alternativos. El documento sugiere que las universidades deben aprovechar la autonomía disponible para desarrollar modelos de evaluación multifactorial que reconozcan diversas contribuciones académicas.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "Desafíos específicos del sistema universitario latinoamericano",
+    "fuentes": ["CILAC 2021 - Ciencia Abierta en América Latina", "Entrevistas a expertos regionales"],
+    "entidades_relacionadas": ["factor de impacto", "rankings universitarios", "sistemas de incentivos", "evaluación multifactorial"]
+  },
+  {
+    "pregunta": "¿Cómo ha impactado la crisis del COVID-19 en el desarrollo y reconocimiento de las prácticas de ciencia abierta en América Latina según las evidencias presentadas en CILAC 2021?",
+    "respuesta": "El documento CILAC 2021 destaca que la crisis del COVID-19 actuó como catalizador para demostrar el valor de la ciencia abierta en la región: 1) Aceleración sin precedentes del intercambio de datos e información científica para combatir la pandemia; 2) Implementación exitosa de colaboraciones internacionales en investigación biomédica y epidemiológica; 3) Rápida adaptación de plataformas regionales como Redalyc y AmeliCA para organizar conocimiento sobre coronavirus y epidemias; 4) Creación de repositorios especializados como la Colección Coronavirus del Repositorio Regional de Salud (OPS-BIREME) y el Observatorio Social de Coronavirus de CLACSO; 5) Validación de modelos cooperativos de comunicación científica que permitieron respuestas ágiles; 6) Mayor reconocimiento gubernamental de la necesidad de sistemas científicos abiertos y conectados; y 7) Demostración práctica de que la ciencia abierta facilita el impacto social directo de la investigación. Esta experiencia fortaleció argumentos para políticas de ciencia abierta más robustas en la post-pandemia.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "maestría",
+    "contexto_regional": "Experiencia regional durante la pandemia COVID-19 en América Latina",
+    "fuentes": ["CILAC 2021 - Ciencia Abierta en América Latina", "CLACSO - Declaraciones COVID-19", "Redalyc y AmeliCA"],
+    "entidades_relacionadas": ["COVID-19", "colaboración internacional", "Redalyc", "CLACSO", "repositorios especializados"]
+  }
+]

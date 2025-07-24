@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cuáles son los componentes principales de la taxonomía ampliada de Ciencia Abierta propuesta por Silveira et al. (2023) según las recomendaciones de la UNESCO?",
+    "respuesta": "La taxonomía ampliada de Ciencia Abierta propuesta contiene 10 componentes de nivel principal y 96 etiquetas en total. Los componentes principales incluyen: Acceso Abierto, Datos Abiertos, Investigación Reproducible y Abierta, Evaluación de la Ciencia Abierta, Infraestructuras y Herramientas, Políticas de Ciencia Abierta, Ciencia Ciudadana y Participativa, Educación Científica Abierta, Licenciamiento Abierto, y Diálogo Abierto con otros sistemas de conocimiento. Esta taxonomía se basa en las recomendaciones de la UNESCO (2021) y incorpora perspectivas específicas de América Latina, siendo más completa que versiones anteriores.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "maestría",
+    "contexto_regional": "América Latina específico - incorpora perspectivas latinoamericanas en el desarrollo de taxonomías de ciencia abierta y considera las especificidades regionales en infraestructuras colaborativas",
+    "fuentes": ["Silveira et al. (2023) - Taxonomía de la Ciencia Abierta: revisada y ampliada", "UNESCO (2021) - Recomendaciones para la Ciencia Abierta"],
+    "entidades_relacionadas": ["taxonomías", "UNESCO", "sistemas_evaluacion", "infraestructuras_colaborativas"]
+  },
+  {
+    "pregunta": "¿Cómo se diferencia la propuesta de taxonomía latinoamericana de las taxonomías europeas anteriores en el contexto de la comunicación científica?",
+    "respuesta": "La taxonomía latinoamericana se diferencia de las propuestas europeas (Pontika et al., 2015; Baumgartner, 2019) en varios aspectos clave: incorpora componentes específicos como 'Diálogo Abierto con otros sistemas de conocimiento', que reconoce epistemologías tradicionalmente marginadas; incluye perspectivas de ciencia participativa y infraestructuras colaborativas características de la región; considera el contexto de revistas diamante (que no cobran a lectores ni autores) predominantes en Latinoamérica; y refleja tradiciones regionales como la investigación-acción participativa, epistemologías del Sur y educación popular. La nueva taxonomía busca superar las limitaciones de visiones predominantemente europeas y norteamericanas.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "doctorado",
+    "contexto_regional": "América Latina específico - destaca la tradición de acceso abierto diamante en la región, epistemologías del Sur, investigación-acción participativa y educación popular como elementos distintivos",
+    "fuentes": ["Silveira et al. (2023)", "Pontika et al. (2015)", "Baumgartner (2019)"],
+    "entidades_relacionadas": ["revistas", "editoriales", "repositorios", "epistemologías_del_sur", "revistas_diamante"]
+  },
+  {
+    "pregunta": "¿Qué metodología se utilizó para validar la taxonomía ampliada de Ciencia Abierta y cuáles fueron los principales hallazgos de los expertos consultados?",
+    "respuesta": "La metodología incluyó dos etapas: 1) Revisión colaborativa con 12 investigadores de 5 países (Brasil, Colombia, Costa Rica, Perú y España) mediante 30 reuniones virtuales para desarrollar la propuesta inicial; 2) Validación con 68 expertos invitados de los cuales 21 participaron activamente, provenientes de 12 países latinoamericanos y Estados Unidos. Los principales hallazgos fueron: la taxonomía es representativa y completa; la separación por colores facilita la identificación de componentes; algunos expertos sugirieron incluir aspectos transversales como igualdad de género y declaraciones políticas; se recomendó normalizar el uso lingüístico (español vs inglés); y se identificó la necesidad de representar mejor las interacciones dinámicas entre elementos.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "investigador",
+    "contexto_regional": "América Latina específico - metodología colaborativa transnacional con énfasis en la participación de expertos regionales y validación por pares latinoamericanos",
+    "fuentes": ["Silveira et al. (2023) - metodología de validación descrita en la sección 2"],
+    "entidades_relacionadas": ["peer_review", "sistemas_evaluacion", "metodologías_participativas"]
+  },
+  {
+    "pregunta": "¿Cuáles son los retos identificados para la implementación de prácticas de ciencia abierta según el marco de la UNESCO y la perspectiva latinoamericana?",
+    "respuesta": "Los principales retos identificados incluyen: 1) Resistencia de investigadores para compartir datos por temor a perder prioridad en descubrimientos; 2) Necesidad de desarrollar nuevas habilidades que van más allá de hacer investigación científica, incluyendo gestión de informaciones e interacción con diversos actores (juristas, responsables de políticas públicas, bibliotecarios, comunidad laica); 3) Barreras lingüísticas y culturales en contextos multilingües; 4) Falta de incentivos en políticas de evaluación y financiación; 5) Desplazamientos de poder que estos cambios involucran; 6) Necesidad de garantías de derechos éticos y autorales; 7) Complejidad de integrar diferentes sistemas de conocimiento y epistemologías.",
+    "pilar": "ciencia_ciudadana",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "América Latina específico - considera retos particulares de la región como diversidad lingüística, integración de saberes tradicionales, y necesidad de políticas públicas contextualizadas",
+    "fuentes": ["UNESCO (2021)", "Silveira et al. (2023)", "artículos de SciELO sobre desafíos de implementación"],
+    "entidades_relacionadas": ["participacion", "metodologias", "comunidades", "sistemas_conocimiento_tradicional"]
+  },
+  {
+    "pregunta": "¿Cómo se integran los principios FAIR en la gestión de datos abiertos dentro de la taxonomía propuesta y qué implicaciones tiene para repositorios institucionales latinoamericanos?",
+    "respuesta": "Los principios FAIR (Findable, Accessible, Interoperable, Reusable) se integran en el componente 'Datos Abiertos' de la taxonomía, que incluye datos digitales y analógicos, metadatos, protocolos, códigos de análisis y flujos de trabajo. Para repositorios latinoamericanos, esto implica: 1) Desarrollo de infraestructuras que soporten identificadores persistentes y metadatos estandarizados; 2) Implementación de planes de gestión de datos como requisito en convocatorias de financiación; 3) Garantía de preservación digital a largo plazo; 4) Cumplimiento de marcos normativos como la Ley 26899 en Argentina que exige disponibilidad pública de datos primarios; 5) Integración con redes como La Referencia y el Sistema Nacional de Repositorios Digitales (SNRD), donde solo 12 de 45 repositorios actualmente albergan conjuntos de datos.",
+    "pilar": "datos_abiertos",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "América Latina específico - referencia marcos normativos regionales como Ley 26899 de Argentina, infraestructuras como La Referencia y SNRD, y el contexto de desarrollo de repositorios institucionales en universidades públicas",
+    "fuentes": ["Silveira et al. (2023)", "UNESCO (2021)", "Ley 26899 Argentina", "Reportes del Comité Asesor en Ciencia Abierta y Ciudadana"],
+    "entidades_relacionadas": ["FAIR", "repositorios", "metadatos", "identificadores", "planes_gestion", "preservacion_digital"]
+  }
+]
