@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cómo define la UNESCO la ciencia abierta y cuáles son sus pilares fundamentales?",
+    "respuesta": "Según la Recomendación de la UNESCO (2021), la ciencia abierta se define como un constructo inclusivo que combina diversos movimientos y prácticas con el fin de que los conocimientos científicos multilingües estén abiertamente disponibles y sean accesibles para todos, así como reutilizables por todos. Se basa en cinco pilares clave: 1) Conocimiento científico abierto (publicaciones, datos, recursos educativos, programas informáticos y equipos de código abierto), 2) Infraestructuras de la ciencia abierta (virtuales y físicas), 3) Comunicación científica, 4) Participación abierta de los agentes sociales, y 5) Diálogo abierto con otros sistemas de conocimiento, incluyendo los conocimientos indígenas y locales.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "básico",
+    "audiencia": "maestría",
+    "contexto_regional": "La definición de la UNESCO es especialmente relevante para América Latina al reconocer la diversidad de sistemas de conocimiento y promover el multilingüismo en las prácticas científicas.",
+    "fuentes": ["Recomendación UNESCO sobre Ciencia Abierta 2021, párrafos 6-7"],
+    "entidades_relacionadas": ["UNESCO", "publicaciones", "repositorios", "licencias"]
+  },
+  {
+    "pregunta": "¿Qué principios FAIR y CARE deben cumplir los datos de investigación abiertos según la recomendación de la UNESCO, y cómo se implementan en el contexto latinoamericano?",
+    "respuesta": "La UNESCO establece que los datos de investigación abiertos deben seguir los principios FAIR (Fáciles de encontrar, Accesibles, Interoperables y Reutilizables) y CARE (beneficio Colectivo, Autoridad para controlar, Responsabilidad y Ética). Los principios FAIR aseguran que los datos estén disponibles de manera oportuna, en formato legible por personas y máquinas, con metadatos apropiados y mantenimiento periódico. Los principios CARE son especialmente relevantes para el diálogo con sistemas de conocimiento indígenas, reconociendo los derechos de los pueblos indígenas a gobernar sus datos tradicionales. En América Latina, esto implica respetar la soberanía de datos de comunidades indígenas y locales, establecer protocolos de acceso culturalmente apropiados, y garantizar que los beneficios del uso de datos se compartan equitativamente con las comunidades de origen.",
+    "pilar": "datos_abiertos",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "doctorado",
+    "contexto_regional": "América Latina tiene una rica diversidad de conocimientos indígenas que requieren protocolos especiales de gestión de datos bajo los principios CARE.",
+    "fuentes": ["Recomendación UNESCO sobre Ciencia Abierta 2021, párrafos 7b, 11, 18f"],
+    "entidades_relacionadas": ["principios FAIR", "principios CARE", "metadatos", "pueblos indígenas", "repositorios"]
+  },
+  {
+    "pregunta": "¿Cómo pueden las instituciones de investigación latinoamericanas desarrollar sistemas de evaluación que reconozcan y recompensen las prácticas de ciencia abierta, considerando las limitaciones presupuestarias regionales?",
+    "respuesta": "La UNESCO recomienda que las instituciones revisen sus sistemas de evaluación para ir más allá de criterios bibliométricos tradicionales como el factor de impacto. Los nuevos sistemas deben: 1) Valorar la diversidad de productos científicos (datos FAIR, software reutilizable, síntesis legibles por máquina, actividades de divulgación), 2) Considerar el impacto social y la participación comunitaria, 3) Reconocer la colaboración interdisciplinaria y con agentes no académicos, 4) Adaptar criterios según la etapa de carrera del investigador. Para el contexto latinoamericano con limitaciones presupuestarias, se sugiere: aprovechar infraestructuras regionales existentes (como LA Referencia), promover colaboraciones Sur-Sur para compartir costos, utilizar plataformas de código abierto, establecer alianzas público-privadas équitativas, y destinar un porcentaje de cada subvención a infraestructuras abiertas. También es crucial desarrollar métricas alternativas que valoren el impacto regional y local de la investigación.",
+    "pilar": "evaluacion_abierta",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "Las instituciones latinoamericanas enfrentan desafíos presupuestarios únicos que requieren estrategias colaborativas y uso eficiente de recursos regionales.",
+    "fuentes": ["Recomendación UNESCO sobre Ciencia Abierta 2021, párrafos 20c, 17b, 18a, 22b"],
+    "entidades_relacionadas": ["sistemas_evaluacion", "altmetrics", "factor de impacto", "colaboración Sur-Sur"]
+  },
+  {
+    "pregunta": "¿Qué estrategias específicas propone la UNESCO para integrar la ciencia ciudadana en las políticas nacionales de ciencia abierta, y cuáles son los desafíos particulares para su implementación?",
+    "respuesta": "La UNESCO propone integrar la ciencia ciudadana como elemento esencial de las políticas de ciencia abierta mediante: 1) Desarrollo de marcos normativos que la reconozcan formalmente, 2) Creación de modelos de coproducción de conocimientos con múltiples agentes, 3) Establecimiento de directrices para reconocer colaboraciones no científicas, 4) Elaboración de métodos participativos para incorporar aportes de agentes sociales más allá de la comunidad científica tradicional, 5) Financiación previsible y sostenible para organizaciones de voluntarios. Los desafíos incluyen: garantizar la calidad científica mediante metodologías válidas, establecer procesos de conservación y normalización de datos generados por ciudadanos, desarrollar plataformas tecnológicas accesibles, capacitar tanto a científicos como a ciudadanos en métodos colaborativos, y crear sistemas de reconocimiento que valoren tanto contribuciones académicas como ciudadanas. Es crucial también abordar brechas digitales y asegurar representatividad diversa en la participación.",
+    "pilar": "ciencia_ciudadana",
+    "nivel_complejidad": "intermedio",
+    "audiencia": "investigador",
+    "contexto_regional": "La diversidad cultural y socioeconómica de América Latina ofrece oportunidades únicas para proyectos de ciencia ciudadana, pero también presenta desafíos de acceso y participación equitativa.",
+    "fuentes": ["Recomendación UNESCO sobre Ciencia Abierta 2021, párrafos 10, 17f, 17g, 21d"],
+    "entidades_relacionadas": ["proyectos", "metodologias", "plataformas", "comunidades", "voluntarios"]
+  },
+  {
+    "pregunta": "¿Cómo debe estructurarse la cooperación internacional en ciencia abierta según la UNESCO para reducir las brechas digitales, tecnológicas y de conocimiento, especialmente en el contexto de colaboraciones Norte-Sur y Sur-Sur?",
+    "respuesta": "La UNESCO establece un marco de cooperación internacional basado en siete elementos clave: 1) Promoción de colaboraciones científicas internacionales como práctica esencial, 2) Estimulación de colaboración multipartita transfronteriza aprovechando mecanismos existentes, 3) Acceso universal a resultados científicos independientemente de ubicación, disciplina o circunstancias socioeconómicas, 4) Creación de infraestructuras compartidas con asistencia técnica y transferencia tecnológica, 5) Establecimiento de mecanismos de financiación regionales e internacionales, 6) Desarrollo de redes para intercambio de mejores prácticas, 7) Cooperación en medición y seguimiento de la ciencia abierta. Para colaboraciones Norte-Sur y Sur-Sur específicamente, se enfatiza: uso compartido de infraestructuras, desarrollo conjunto de capacidades, transferencia y coproducción tecnológica bajo condiciones mutuamente convenidas, armonización de políticas y estándares técnicos, y programas de financiación que permitan crear plataformas regionales especialmente para países de ingreso bajo y mediano. La UNESCO debe coordinar objetivos globales que guíen esta cooperación.",
+    "pilar": "acceso_abierto",
+    "nivel_complejidad": "avanzado",
+    "audiencia": "investigador",
+    "contexto_regional": "América Latina puede liderar iniciativas Sur-Sur y beneficiarse de transferencia tecnológica Norte-Sur para desarrollar capacidades regionales en ciencia abierta.",
+    "fuentes": ["Recomendación UNESCO sobre Ciencia Abierta 2021, párrafo 22, especialmente incisos a-g"],
+    "entidades_relacionadas": ["colaboración Norte-Sur", "colaboración Sur-Sur", "infraestructuras regionales", "transferencia tecnológica"]
+  }
+]
