@@ -1,0 +1,33 @@
+# Lectura e ingesta de PDFs
+os
+pdfplumber==0.11.7
+
+# #Limpieza y Procesamiento de documentos
+# spacy==3.8.7
+nltk==3.9.1
+pandas==2.2.2
+regex==2024.11.6
+
+
+# Embeddings y vectorización
+sentence-transformers==4.1.0
+chromadb==1.0.15    (base de datos vectorial)
+faiss-cpu ==1.7.4
+
+# Framework RAG (Seleccionar langchain o llama-index no es necesario utilizar las dos)
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core==0.3.72
+langchain-text-splitters==0.3.9
+rank-bm25==0.2.2
+llama-index ==0.9.0.
+
+# APIs LLM (Seleccionar openai o anthropic de claude no es necesario utilizar las dos)
+huggingface-hub==0.34.3
+openai==1.98.0
+transformers==4.54.1
+torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+
+# Interfaz y API (Para más adelante, elegir gradio o streamlit, no es necesario utilizar las dos)
+streamlit==1.28.0
+gradio==4.8.0  (utilizar esta por su sencillez, luego en la iteración agregar streamlit)
