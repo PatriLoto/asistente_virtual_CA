@@ -426,7 +426,7 @@ Hasta acá se han extraído fragmentos de texto desde los pdfs y luego se han ge
 * creación de objetos del tipo Document a partir de los fragmentos de texto.
 * creación de un vector_store (utilizando Chroma) a partir de los objetos Document y sus correspondientes embeddings. Por último, se utilizarán los documentos y el vector_store para configurar su BM25Retriever, VectorStoreRetriever y EnsembleRetriever.
 
-In essence, this code prepares your text data for retrieval by converting it into a format (Documents with embeddings stored in a vector database) that can be efficiently searched for relevant information based on semantic similarity. This is a fundamental step in a RAG pipeline, allowing you to find the most relevant parts of your documents to answer user queries.
+En sintesis, este código prepara los datos de texto para su recuperación convirtiéndolos a un formato (documentos con incrustaciones almacenadas en una base de datos vectorial) que permite buscar de manera eficiente información relevante basada en la similitud semántica. Este es un paso fundamental en un proceso RAG, ya que permite encontrar las partes más relevantes de los documentos para responder a las consultas de los usuarios.
 """
 
 # IMPORTANTE: Revisar quizás no es necesario realizar la conversión a embeddings de los pasos previos porque en este paso toma los trozos de texto generados anteriormente, arma objetos de tipo documentos
