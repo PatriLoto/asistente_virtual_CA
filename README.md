@@ -21,4 +21,4 @@ Nuestro objetivo con esta herramienta es, en última instancia, facilitar la ado
 * Librerías de Python(pandas, pdfplumber, langchain, entre otras)
 
 # 📝 Pasos para la ejecución del código
-Para ejecutar el codigo del asistente, el cual es un work in progress, es necesario instalar las librerías detalladas en el archivo requeriments.txt. Una manera sencilla de hacerlo es con ``!pip install requeriments.txt``
+Para ejecutar el codigo del asistente, el cual es un work in progress, es necesario instalar las librerías detalladas en el archivo requeriments.txt. Una manera sencilla de hacerlo es con ``pip install -r requirements.txt``
