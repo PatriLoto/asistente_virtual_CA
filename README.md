@@ -13,3 +13,9 @@ La implementación de prácticas de Ciencia Abierta en América Latina enfrenta 
 ## Objetivo del trabajo
 La propuesta consiste en diseñar un asistente virtual inteligente, cuya función primordial será facilitar el acceso y la comprensión de las prácticas y recomendaciones en materia de ciencia abierta a investigadores y académicos, como también al personal administrativo y directivo de instituciones, centros científicos y universidades. Dicho asistente permitirá formular consultas en lenguaje natural sobre los pilares de la ciencia abierta, incluyendo el acceso abierto a publicaciones, la gestión de datos abiertos de investigación, la integración de la ciencia ciudadana, la utilización de código abierto y los criterios para una evaluación de la investigación que promueva la apertura, entre otros. 
 Nuestro objetivo con esta herramienta es, en última instancia, facilitar la adopción efectiva y sostenible de la ciencia abierta en todo el ecosistema científico y académico de América Latina.
+
+## Herramientas
+* Python
+* Modelo LLM de SentenceTransformer
+* Base de datos vectorial Chroma
+* Librerías de Python(pandas, pdfplumber, langchain, entre otras)
