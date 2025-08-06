@@ -3,8 +3,8 @@ os
 pdfplumber==0.11.7
 
 # #Limpieza y Procesamiento de documentos
-# spacy==3.8.7
-nltk==3.9.1
+# nltk==3.9.1
+spacy==3.8.7
 pandas==2.2.2
 regex==2024.11.6
 
@@ -27,6 +27,7 @@ huggingface-hub==0.34.3
 openai==1.98.0
 transformers==4.54.1
 torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
+# mistral
 
 # Interfaz y API (Para más adelante, elegir gradio o streamlit, no es necesario utilizar las dos)
 streamlit==1.28.0
