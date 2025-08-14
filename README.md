@@ -13,7 +13,7 @@ Nuestro objetivo con esta herramienta es, en última instancia, facilitar la ado
 ## 🧰 Herramientas
 * Python
 * Modelo LLM de SentenceTransformer
-* Base de datos vectorial Chroma
+* Base de datos vectorial ChromaDB
 * Librerías de Python(pandas, pdfplumber, langchain, entre otras)
 
 # 📝 Pasos para la ejecución del código
