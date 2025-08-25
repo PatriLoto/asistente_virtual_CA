@@ -18,3 +18,8 @@ Nuestro objetivo con esta herramienta es, en última instancia, facilitar la ado
 
 # 📝 Pasos para la ejecución del código
 Para ejecutar el codigo del asistente, el cual es un work in progress, es necesario instalar las librerías detalladas en el archivo requeriments.txt. Una manera sencilla de hacerlo es con ``pip install -r requirements.txt``
+
+# 📄 Licencia
+Este proyecto está licenciado bajo la Licencia GNU General Public.
+
+#### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Agosto 2025
