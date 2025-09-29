@@ -30,5 +30,5 @@ torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-l
 # mistral
 
 # Interfaz y API (Para más adelante, elegir gradio o streamlit, no es necesario utilizar las dos)
-streamlit==1.28.0
+streamlit>=1.28.0
 gradio==4.8.0  (utilizar esta por su sencillez, luego en la iteración agregar streamlit)
