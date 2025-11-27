@@ -22,4 +22,9 @@ Para ejecutar el codigo del asistente, el cual es un work in progress, es necesa
 # 📄 Licencia
 Este proyecto está licenciado bajo la Licencia GNU General Public.
 
-#### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Agosto 2025
+# 👩‍🔬 Trabajos presentados en Congresos y conferencias:
+* [Póster presentado en el 2do Congreso Iberoamericano de Ciencia Abierta](https://zenodo.org/records/17570681)
+
+
+
+#### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Noviembre 2025
