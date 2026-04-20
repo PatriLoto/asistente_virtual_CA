@@ -12,9 +12,10 @@ Nuestro objetivo con esta herramienta es, en última instancia, facilitar la ado
 
 ## 🧰 Herramientas
 * Python
-* Modelo LLM de SentenceTransformer
-* Base de datos vectorial ChromaDB
+* Modelo para embeddings: SentenceTransformer
+* Base de datos vectorial ChromaDB para almacenar la base de conocimientos
 * Librerías de Python(pandas, pdfplumber, langchain, entre otras)
+* Api de modelos como OpenAi o Mistral
 
 # 📝 Pasos para la ejecución del código
 Para ejecutar el codigo del asistente, el cual es un work in progress, es necesario instalar las librerías detalladas en el archivo requeriments.txt. Una manera sencilla de hacerlo es con ``pip install -r requirements.txt``
